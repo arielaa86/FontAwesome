@@ -27,5 +27,12 @@
         </dependency>
         
         
+         <dependency>
+            <groupId>com.formdev</groupId>
+            <artifactId>flatlaf</artifactId>
+            <version>0.45</version>
+            <type>jar</type>
+        </dependency>
+        
     </dependencies>
 </project>
